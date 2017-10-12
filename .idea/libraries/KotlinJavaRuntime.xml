@@ -6,15 +6,13 @@
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre7.jar!/" />
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre8.jar!/" />
-      <root url="jar://Z:/대용량 다운로드/josm-tested.jar!/" />
-      <root url="jar://Z:/대용량 다운로드/jSSC-2.8.0-Release/jssc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/josm-tested.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre7-sources.jar!/" />
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre8-sources.jar!/" />
-      <root url="jar://Z:/대용량 다운로드/jSSC-2.8.0-Release/src/jssc-2.8.0-src.jar!/src" />
     </SOURCES>
   </library>
 </component>
